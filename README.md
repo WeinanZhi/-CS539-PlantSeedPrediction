@@ -75,6 +75,13 @@ The network structure of densenet is mainly composed of denseblock and transitio
 
 ## Experiments
 
+GPU: Google Colab
+Epochs: 25
+Unsegmented data set
+Segmented data set
+Batch size:4
+
+
 ## Conclusion
 We plot all the accuracy in one linechart as below, and get three conclusion.
 1. Segmented data performed  better on ResNet18.
