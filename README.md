@@ -76,9 +76,13 @@ The network structure of densenet is mainly composed of denseblock and transitio
 ## Experiments
 
 GPU: Google Colab
+
 Epochs: 25
+
 Unsegmented data set
+
 Segmented data set
+
 Batch size:4
 
 
