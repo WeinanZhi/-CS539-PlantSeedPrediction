@@ -54,11 +54,15 @@ The final output should consists of the following five files:
 
 Outside datasets similar to original datasets have been used for better accuracy. Here is an example:
 
-![image1](outside.png)![image2](lable.png)
+![image1](outside.png)
+
+![image2](lable.png)
 
 Segmentation Result:
 
-![image3](before_segment.png)![image4](aftersegment.png)
+![image3](before_segment.png)
+
+![image4](aftersegment.png)
 
 
 
