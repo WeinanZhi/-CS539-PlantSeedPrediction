@@ -54,11 +54,11 @@ The final output should consists of the following five files:
 
 Outside datasets similar to original datasets have been used for better accuracy. Here is an example:
 
-![image](outside.png)![image](lable.png)
+![image1](outside.png)![image2](lable.png)
 
 Segmentation Result:
 
-![image](before_segment.png)![image](aftersegment.png)
+![image3](before_segment.png)![image4](aftersegment.png)
 
 
 
@@ -68,7 +68,7 @@ We used two models, one is ResNet18, the other is DensNet121.
 
 
 ## ResNet18 MOdel
-![image](ResNet18.png)
+![image5](ResNet18.png)
 
 
 ## DenseNet121 Model
