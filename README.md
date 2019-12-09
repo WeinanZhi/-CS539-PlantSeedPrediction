@@ -54,11 +54,11 @@ The final output should consists of the following five files:
 
 Outside datasets similar to original datasets have been used for better accuracy. Here is an example:
 
-![image](https://github.com/WeinanZhi/-CS539-PlantSeedPrediction/blob/master/outside.png)![image](https://github.com/WeinanZhi/-CS539-PlantSeedPrediction/blob/master/lable.png)
+![image](outside.png)![image](lable.png)
 
 Segmentation Result:
 
-![image](https://github.com/WeinanZhi/-CS539-PlantSeedPrediction/blob/master/before_segment.png)![image](https://github.com/WeinanZhi/-CS539-PlantSeedPrediction/blob/master/aftersegment.png)
+![image](before_segment.png)![image](aftersegment.png)
 
 
 
@@ -68,7 +68,7 @@ We used two models, one is ResNet18, the other is DensNet121.
 
 
 ## ResNet18 MOdel
-![image](https://github.com/WeinanZhi/-CS539-PlantSeedPrediction/blob/master/ResNet18.png)
+![image](ResNet18.png)
 
 
 ## DenseNet121 Model
