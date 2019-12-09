@@ -6,6 +6,12 @@ Weinan Zhi, Yang Mo, Lei Ma, Zhiyi Huang, Yueqin Liang
 
 
 ## Project Description
+Plant image identification has become an inter-discipline of botany and computer vision.There is a technical trend.  For example, a Microsoft app will tell you the name of a flower as well as a few other details when you take a picture of a flower. Our project is a cross-border collaboration between plants and machine learning. We used different models to identify a plant from a seed.
+
+The reason why we did this project is because the identification of seeds by traditional methods, which require manually labeling, is difficult, time consuming, and sometimes frustrating. Our project proposed an efficient way to identify seeds with high accuracy. It means that we can improve crop yields, increase price of seeds product and reduce waste.
+
+
+
 
 ## Dataset
 ### Plant Seedlings Dataset
