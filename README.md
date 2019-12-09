@@ -52,6 +52,15 @@ The final output should consists of the following five files:
 ### Data Segmentation
 [Segmented Data](https://drive.google.com/drive/folders/19Px2relPjxfPZWV7UGHchqaqXX8RZBRc?usp=sharing)
 
+Outside datasets similar to original datasets have been used for better accuracy. Here is an example:
+
+![image](https://github.com/WeinanZhi/-CS539-PlantSeedPrediction/blob/master/outside.png)![image](https://github.com/WeinanZhi/-CS539-PlantSeedPrediction/blob/master/lable.png)
+
+Segmentation Result:
+
+
+
+
 ## Transfer Learning of Image Classification
 
 ## DenseNet121 Model
