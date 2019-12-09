@@ -64,6 +64,13 @@ Segmentation Result:
 
 ## Transfer Learning of Image Classification
 
+We used two models, one is ResNet18, the other is DensNet121.
+
+
+## ResNet18 MOdel
+![image](https://github.com/WeinanZhi/-CS539-PlantSeedPrediction/blob/master/ResNet18.png)
+
+
 ## DenseNet121 Model
 The second model we used is DenseNet121 Model.
 Compared with RESNET, densenet proposes a more radical dense connection mechanism. That is, all layers are connected to each other, especially, each layer will accept all the previous layers as its additional input.
