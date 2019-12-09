@@ -48,6 +48,21 @@ The final output should consists of the following five files:
 
 ## Transfer Learning of Image Classification
 
+## DenseNet121 Model
+The second model we used is DenseNet121 Model.
+Compared with RESNET, densenet proposes a more radical dense connection mechanism. That is, all layers are connected to each other, especially, each layer will accept all the previous layers as its additional input.
+![image](pics/des1.png)
+The network structure of densenet is mainly composed of denseblock and transition. In denseblock, each layer has the same characteristic map size and can be connected in the channel dimension.
+![image](pics/des2.png)
+
+
+
 ## Experiments
 
+## Conclusion
+We plot all the accuracy in one linechart as below, and get three conclusion.
+1. Segmented data performed  better on ResNet18.
+2. Segmented data  and original data performed  almost same  on Densenet121.
+3. Densenet121 performed better than ResNet18 because of the complicated input structure.
+![image](pics/linechart.png)
 
