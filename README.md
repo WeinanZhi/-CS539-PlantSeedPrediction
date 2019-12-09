@@ -58,6 +58,7 @@ Outside datasets similar to original datasets have been used for better accuracy
 
 Segmentation Result:
 
+![image](https://github.com/WeinanZhi/-CS539-PlantSeedPrediction/blob/master/before_segment.png)![image](https://github.com/WeinanZhi/-CS539-PlantSeedPrediction/blob/master/aftersegment.png)
 
 
 
